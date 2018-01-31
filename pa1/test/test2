@@ -1,0 +1,9 @@
+# Devadas/Keutzer example circuit
+! ((! (((a | b)
+| ! c)
+| ! d))
+| ((! (e | f)) | g))
+| h
+;
+
+# Total area: 17

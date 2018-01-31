@@ -1,0 +1,5 @@
+	# Example circuit in Figure 5 of Keutzer's paper non-normalized
+	a' & (b & c + d');
+
+	# Total area: 7
+
